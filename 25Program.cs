@@ -27,3 +27,4 @@ int Method(int number, int degree)
 }
 int x = Method(numberA,numberB);
 Console.WriteLine(x);
+//
